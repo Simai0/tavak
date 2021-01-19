@@ -1,0 +1,49 @@
+table{
+    border: 2.8px solid rgb(189, 189, 189);
+    border-radius: 5px;
+    border-spacing: 3px;
+ }
+ td, th{
+    width: 76px;
+    height: 45px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 0px rgb(0, 0, 125);
+    font-size: 12px;
+    padding: 1px;
+    text-align: center;
+    color: rgb(0, 0, 179);
+      background-color: rgb(160, 160, 235);
+ }
+ td{
+    background-color: rgb(224, 229, 255);
+ }
+ .piros{
+    color: rgb(214, 16, 16);
+ }
+ .felso{
+    text-align: left;
+    background-color: rgb(160, 160, 235);
+    padding-left: 6px;
+ }
+
+ .tavak{
+    background-color: rgb(160, 160, 235);
+ }
+ .vt{
+    background-color: rgb(208, 208, 208);
+ }
+ 
+ .foto{
+    width: 76px;
+    height: 45px;
+    padding: 0;
+    margin: 0;
+    
+ }
+ img{
+    width: 77px;
+    margin: 0;
+    padding: 0;
+    border-radius: 5px;
+    border-bottom: 0px;
+ }
